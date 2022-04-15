@@ -1,2 +1,2 @@
 # gitblento
-Blent Course
+Blent Course modifications applied
